@@ -74,6 +74,12 @@ h4 { font-family: "Kalnia", sans-serif;}
     font-size: 100%;
     margin: 10px;
   }
+  .block4 img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
   .section4 {
     background-color: yellow;
     width: fit-content;
