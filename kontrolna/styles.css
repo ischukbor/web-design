@@ -69,7 +69,7 @@ h4 { font-family: "Kalnia", sans-serif;}
     background-color: lightyellow;
     position: relative;
     width: 1400px;
-  
+  object-fit: cover;
     color: green;
     font-size: 100%;
     margin: 10px;
